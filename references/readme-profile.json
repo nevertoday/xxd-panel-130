@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 130｜Hard-edge Faceted Collage: rebuilds the key subject of a photo as a hard-edge geometric collage of clearly bounded rectangles, trapezoids, polygons and folded planes with straight cuts and slight offsets instead of continuous shading, mostly in high-contrast black, white and grey with one or two strong accent colours from the photo, a secondary layer of halftone, dither, riso or photocopy grain, a tiny subject in a large empty field and small crisp editorial text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-130 or asks for hard-edge, faceted, planar geometric abstraction or riso/xerox geometric collage from a photo.",
+  "short_description": "硬边几何切面志：把照片切成黑白灰硬边几何块面，加一两块强调色和复印网点",
+  "zh-CN": {
+    "name": "硬边几何切面志",
+    "tagline": "把照片的主体切成黑白灰的硬边几何块面，再插进一两块强调色。",
+    "look": "主体不再有连续的明暗，而是被切成边界清楚的矩形、梯形、多边形和折线块面，带直角、斜切和局部错位，像用几何秩序重新拼出有机的形。颜色以黑、白、灰高反差为主，再从照片里提一两块强调色穿插其中。块面上叠一层很淡的网点、复印颗粒或轻微套色错位，只做辅助。主体很小，周围是大片空场，配几个硬朗、克制的小字。",
+    "traits": [
+      "硬边几何切面",
+      "矩形梯形多边形",
+      "黑白灰高反差",
+      "一两块强调色",
+      "复印网点纹理"
+    ],
+    "good": [
+      "轮廓有力、结构清楚的主体：一栋楼、一把椅子、一个侧脸、一只站立的鸟",
+      "有明显明暗分界的照片：强光下的人、楼梯、桥、山体",
+      "想做成现代展览海报、唱片封面或品牌视觉的照片"
+    ],
+    "poor": [
+      "以柔软曲线和细腻质感为主的东西：云、花瓣、毛茸茸的动物、丝绸",
+      "颜色丰富本身就是重点的照片，结果只剩黑白灰和一两种色",
+      "想要柔和自然的插画、卡通或 3D 效果"
+    ]
+  },
+  "en": {
+    "name": "Hard-edge Faceted Collage",
+    "tagline": "Cuts your photo's subject into hard-edged black, white and grey planes with one or two strong accent colours.",
+    "look": "The subject loses its smooth shading and is cut into clearly bounded rectangles, trapezoids, polygons and folded planes, with right angles, diagonal cuts and small offsets, rebuilding organic forms with a geometric order. Colour is mainly high-contrast black, white and grey, with one or two accent blocks pulled from the photo. A light layer of halftone dots, photocopy grain or slight misregistration sits on the planes as support only. The subject is small inside a large empty field, with a few crisp, restrained words.",
+    "traits": [
+      "Hard-edge facets",
+      "Rectangles, trapezoids, polygons",
+      "High-contrast black, white, grey",
+      "One or two accent colours",
+      "Photocopy halftone texture"
+    ],
+    "good": [
+      "Subjects with a strong outline and clear structure: a building, a chair, a profile, a standing bird",
+      "Photos with sharp light-and-shadow boundaries: a person in hard light, stairs, a bridge, a mountainside",
+      "Photos for a modern exhibition poster, album cover or brand visual"
+    ],
+    "poor": [
+      "Things defined by soft curves and fine texture: clouds, petals, fluffy animals, silk",
+      "Photos whose appeal is rich colour, since only black, white, grey and one or two accents remain",
+      "Requests for soft natural illustration, cartoon or 3D looks"
+    ]
+  },
+  "ja": {
+    "name": "ハードエッジ幾何面",
+    "tagline": "写真の主役を黒・白・グレーのハードエッジな幾何面に切り分け、強い差し色を一、二色入れます。",
+    "look": "主役はなめらかな陰影をなくし、境界のはっきりした長方形、台形、多角形、折れ線の面に切り分けられます。直角、斜めの切り口、部分的なずれを使い、有機的な形を幾何の秩序で組み直します。色は黒、白、グレーの高コントラストが中心で、写真から取った強調色の面を一、二か所差し込みます。面の上には網点、コピーの粒子、わずかな版ずれを薄く重ねますが、あくまで補助です。主役は小さく、周りは大きな空き。硬質で控えめな小さな文字を少し添えます。",
+    "traits": [
+      "ハードエッジの幾何面",
+      "長方形・台形・多角形",
+      "黒白灰の高コントラスト",
+      "一、二色の差し色",
+      "コピー網点の質感"
+    ],
+    "good": [
+      "輪郭が力強く構造がはっきりした主役：ビル、椅子、横顔、立っている鳥",
+      "光と影の境目がくっきりした写真：強い光の中の人物、階段、橋、山肌",
+      "現代的な展覧会ポスター、レコードジャケット、ブランドビジュアルにしたい写真"
+    ],
+    "poor": [
+      "柔らかな曲線や繊細な質感が特徴のもの：雲、花びら、ふわふわの動物、絹",
+      "色の豊かさが見どころの写真（黒白灰と一、二色だけになります）",
+      "柔らかく自然なイラスト、アニメ調、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "하드에지 기하 콜라주",
+    "tagline": "사진의 주인공을 검정·흰색·회색의 하드에지 기하 면으로 자르고 강한 포인트 색을 한두 개 넣습니다.",
+    "look": "주인공은 매끄러운 명암 대신 경계가 분명한 직사각형, 사다리꼴, 다각형, 꺾인 면으로 잘립니다. 직각, 사선 절단, 부분적인 어긋남으로 유기적인 형태를 기하학적 질서로 다시 짜 맞춥니다. 색은 검정, 흰색, 회색의 높은 대비가 중심이고, 사진에서 뽑은 강조색 면을 한두 군데 끼워 넣습니다. 면 위에는 망점, 복사기 입자, 살짝 어긋난 인쇄를 옅게 얹지만 보조 역할에 그칩니다. 주인공은 작고 주변은 넓은 빈 공간이며, 단단하고 절제된 작은 글자를 조금 곁들입니다.",
+    "traits": [
+      "하드에지 기하 면",
+      "직사각형·사다리꼴·다각형",
+      "흑백회 고대비",
+      "포인트 색 한두 개",
+      "복사 망점 질감"
+    ],
+    "good": [
+      "윤곽이 힘 있고 구조가 분명한 주인공: 건물, 의자, 옆얼굴, 서 있는 새",
+      "빛과 그림자 경계가 뚜렷한 사진: 강한 빛 속의 사람, 계단, 다리, 산비탈",
+      "현대적인 전시 포스터, 앨범 커버, 브랜드 비주얼로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "부드러운 곡선과 섬세한 질감이 핵심인 대상: 구름, 꽃잎, 털이 복슬한 동물, 비단",
+      "풍부한 색이 볼거리인 사진(흑백회와 한두 가지 색만 남습니다)",
+      "부드럽고 자연스러운 일러스트, 만화풍, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كولاج هندسي حاد الأوجه",
+    "tagline": "يقطّع العنصر الرئيسي في صورتك إلى مسطّحات هندسية حادة الحواف بالأسود والأبيض والرمادي مع لون بارز أو لونين.",
+    "look": "يفقد العنصر تدرّج الظل والنور ويُقطَّع إلى مستطيلات وأشباه منحرف ومضلّعات ومسطّحات منكسرة واضحة الحدود، بزوايا قائمة وقطع مائلة وانزياحات صغيرة، فتُعاد صياغة الأشكال العضوية بنظام هندسي. الألوان في الغالب أسود وأبيض ورمادي بتباين عالٍ، مع كتلة أو كتلتين بلون بارز مأخوذ من الصورة. وفوق المسطّحات طبقة خفيفة من نقاط الهافتون أو حبيبات النسخ الضوئي أو انزياح طفيف في الطباعة، دورها مساند فقط. العنصر صغير وسط مساحة فارغة كبيرة، مع كلمات قليلة صلبة ومقتضبة.",
+    "traits": [
+      "أوجه هندسية حادة",
+      "مستطيلات وأشباه منحرف ومضلّعات",
+      "أسود وأبيض ورمادي بتباين عالٍ",
+      "لون بارز أو لونان",
+      "ملمس هافتون النسخ الضوئي"
+    ],
+    "good": [
+      "عناصر بخط خارجي قوي وبنية واضحة: مبنى، كرسي، وجه من الجانب، طائر واقف",
+      "صور فيها حدود حادة بين الضوء والظل: شخص في ضوء قوي، درج، جسر، سفح جبل",
+      "صور لملصق معرض حديث أو غلاف ألبوم أو هوية بصرية لعلامة تجارية"
+    ],
+    "poor": [
+      "أشياء تقوم على المنحنيات الناعمة والملمس الدقيق: الغيوم، البتلات، الحيوانات الكثيفة الفراء، الحرير",
+      "صور جاذبيتها في غنى الألوان، لأن النتيجة أسود وأبيض ورمادي مع لون أو لونين",
+      "طلب رسم طبيعي ناعم أو مظهر كرتوني أو ثلاثي الأبعاد"
+    ]
+  }
+}
